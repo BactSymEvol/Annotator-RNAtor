@@ -15,7 +15,7 @@ Annotator-RNAtor is written in python with the user-friendliness of the PyQt5 GU
 - Subread package
 
 ## Supported Operating System
-- The software is tested on Ubuntu 18.04 or more Linux OS.
+- The software is tested on Ubuntu 18.04 or higher Linux OS.
 
 ## How to cite
 A manuscript describing Annotator-RNAtor and its use is currently submitted. When the manuscript is accepted, we will update this section. For now, if you use Annotator, please quote this GitHub.
