@@ -18,4 +18,5 @@ Annotator-RNAtor is written in python [1] with the user-friendliness of the PyQt
 - The software is tested on Ubuntu 18.04 or more Linux OS.
 
 ## How to cite
+A manuscript describing Annotator-RNAtor and its use is currently submitted. When the manuscript is accepted, we will update this section. For now, if you use Annotator, please quote this GitHub.
 
