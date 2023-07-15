@@ -83,15 +83,3 @@ def get_homolog_data():
         return (ui.get_data(), ui.getUnifiedLT(), ui.getSimilarity())
     else:
         return ()
-
-
-'''
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    Get_homolog_method = QtWidgets.QDialog()
-    ui = Ui_Get_homolog_method()
-    ui.setupUi(Get_homolog_method)
-    Get_homolog_method.show()
-    sys.exit(app.exec_())
-'''
