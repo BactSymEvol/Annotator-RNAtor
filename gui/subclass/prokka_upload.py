@@ -60,14 +60,3 @@ def uploadgenome():
     else:
         return ()
     
-'''
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    GenomeUpload = QtWidgets.QDialog()
-    ui = Ui_GenomeUpload()
-    ui.setupUi(GenomeUpload)
-    GenomeUpload.show()
-    sys.exit(app.exec_())
-'''
